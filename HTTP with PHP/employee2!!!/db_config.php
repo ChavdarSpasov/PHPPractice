@@ -1,8 +1,8 @@
 <?php
-$db_host     = "localhost";
-$db_name     = "soft_uni";
-$db_user     = "root";
-$db_password = 'rootpass';
+$db_host     = "";
+$db_name     = "";
+$db_user     = "";
+$db_password = '';
 
 // Methods
 $db = new PDO( "mysql:dbname=".$db_name.";host=".$db_host, $db_user, $db_password);

@@ -1,8 +1,8 @@
 <?php
 
-$db_host= 'localhost';
-$db_name= 'geography';
-$db_user= 'root';
-$db_password= 'rootpass';
+$db_host= '';
+$db_name= '';
+$db_user= '';
+$db_password= '';
 
 

@@ -1,9 +1,9 @@
 <?php
 
-$host_name = 'localhost';
-$db_name = 'geography';
-$user = 'root';
-$pass = 'rootpass';
+$host_name = '';
+$db_name = '';
+$user = '';
+$pass = '';
 
 
 $db = new PDO("mysql:host=$host_name;dbname=$db_name",$user,$pass);

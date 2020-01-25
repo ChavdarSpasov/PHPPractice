@@ -1,0 +1,1 @@
+<p>New sale entered <?php  print $saleTime; ?> </p>

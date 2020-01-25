@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 60,
+            "database": "carshop",
+            "dialect": "MySQL",
+            "name": "MySqlConnection",
+            "password": "rootpass",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
